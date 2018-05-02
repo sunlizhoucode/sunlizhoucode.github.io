@@ -1,4 +1,4 @@
-## Welcome to GitHub sunlizhoucode
+## Welcome to GitHub sunlizhoucode.
 
 You can use the [editor on GitHub](https://github.com/sunlizhoucode/sunlizhoucode.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
